@@ -1,4 +1,6 @@
 # RFM (Rutine Fit Manager)
+![Texto alternativo](RFM.png)
+
 
 ## Descripción del Sistema
 
