@@ -1,6 +1,5 @@
 # RFM (Rutine Fit Manager)
-![Texto alternativo](RFM.png)
-
+<img src="RFM.png" alt="Texto alternativo" width="200"/>
 
 ## Descripción del Sistema
 
